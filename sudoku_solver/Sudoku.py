@@ -31,3 +31,25 @@ class Sudoku :
         #comprobar si es valido (dos iguales en misma fila por ej)
         
         self.data = given_data
+
+    def __repr__(self) : #que este bonico
+        pass
+
+    def __getitem__(self, key) :
+        pass
+
+    def row(self, i : int) -> list[int]:
+        pass
+
+    def col(self, j : int) -> list[int]:
+        pass
+
+    def box(self, k : int) -> list[int]:
+        pass
+
+    def is_correct(self) -> bool: #comprueba si vas bien
+        pass
+
+    def is_solved(self) -> bool : #comprueba si esta resuelto
+        pass
+
