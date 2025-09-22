@@ -1,1 +1,1 @@
-Creating a sudoku solver to learn advance project handling.
+Creating a sudoku solver to learn advanced project handling.
